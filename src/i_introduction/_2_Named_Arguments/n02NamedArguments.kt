@@ -28,6 +28,7 @@ fun task2(collection: Collection<Int>): String {
     //return task1(collection)
 }
 
+// For testing
 fun main(args: Array<String>) {
     println("Task 2:")
 
