@@ -20,6 +20,8 @@ Here https://www.jetbrains.com/help/idea/gradle.html you can read how to work wi
 You can also build the project and run all tests in the terminal:
 ```
 ./gradlew test
+ 
+gradlew test (on windows)
 ```
 But since running all the tests tend to take longer and the output can be
 cluttered, it's more ideal to run selected tests only:
